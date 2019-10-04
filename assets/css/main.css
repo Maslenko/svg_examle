@@ -1,0 +1,26 @@
+body {
+	background: grey; 
+}
+
+.logo, .icon-2 {
+	width: 100px;
+	height: 100px; 
+}
+
+/*Способ 2*/
+
+.hex-back {
+	fill: green;	
+}
+
+#hex-front {
+	fill: blue;
+}
+
+#logo-s {
+	fill: green;
+}
+
+.hex-back:hover {
+	fill: red;
+}
